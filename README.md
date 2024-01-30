@@ -10,10 +10,10 @@ Hackers are given a false plot and agenda of a seemingly boring hackathon, inclu
 ### The Blackout
 A increase in intensity of the music and a few changes in genre lead into The Impact, where the lights turn off (excecpt for a few ambients, of course) and the event goes on hold for a brief presentation, where the truth of the event is told, and the agenda is revealed to be false. There, the "path" of the event (remainder of the agenda and plan) is left unknown (allegorically "in the darkness"), to be discovered slowly throughout the event. The only thing from the start of the event that remains going in is any tools that were given. However, they are given a new prompt: turn on the lights. Together, they must each find a key towards turning on the lights. (i have no clue how this will happen)
 
-## Work / Sleep / Life
+### Work / Sleep / Life
 yeah
 
-## The Exposition
+### The Exposition
 presentation, community voting, etc.
 
 im sleep deprived so expect this to change significantly when im thinking rationally .
